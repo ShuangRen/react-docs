@@ -24,7 +24,7 @@ redirect_from: "docs/index.html"
 
 在初学者教程包的根目录，创建一个包含以下内容的 `helloworld.html`。
 
-```html
+```
 <!DOCTYPE html>
 <html>
   <head>
