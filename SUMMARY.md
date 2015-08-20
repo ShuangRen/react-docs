@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](.README.md)
 * 快速入门
    * [快速开始](zh/docs/getting-started.md)
    * [教程](zh/docs/tutorial.md)
