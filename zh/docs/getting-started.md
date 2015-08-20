@@ -89,7 +89,7 @@ React.render(
 
 对照以下内容更新你的 HTML 代码
 
-```html{6,10}
+```
 <!DOCTYPE html>
 <html>
   <head>
