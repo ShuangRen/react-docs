@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](.README.md)
 * [Introduction](.README.md/readme.md)
 * 快速入门
    * [快速开始](zh/docs/getting-started.md)
