@@ -1,3 +1,5 @@
+#React中文文档
+> 大家可以到[reactjs.cn](http://reactjs.cn)查看长期维护版本。
 # React文档和网站
 
 我们使用[Jekyll](http://jekyllrb.com/)来构建这个网站，该网站（[绝大部分](http://zpao.com/posts/adding-line-highlights-to-markdown-code-fences/)）使用Markdown。
