@@ -1,10 +1,3 @@
----
-id: getting-started
-title: 快速开始
-next: tutorial.html
-redirect_from: "docs/index.html"
----
-
 ## JSFiddle
 
 开始学习 React 最简单的方式是使用如下JSFiddle的 Hello World例子：
@@ -58,7 +51,7 @@ React.render(
 
 然后在 `helloworld.html` 引用它：
 
-```html{10}
+```
 <script type="text/jsx" src="src/helloworld.js"></script>
 ```
 
